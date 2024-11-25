@@ -12,5 +12,7 @@ This project is a collaborative effort among the following esteemed institutions
 
 - **[Wuhan University of Technology, School of Navigation](http://sn.whut.edu.cn/szdw/jsml/202303/t20230320_919789.shtml):**  
   Specializing in maritime research and technology development.
+
+- **[Nanjing University of Posts and Telecommunications, College of Automation](https://coa.njupt.edu.cn/)**  
   
 The HTML files provide animations showcasing the complete motion planning results. The source code will be made available after the paper is published.
